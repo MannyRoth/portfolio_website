@@ -1,6 +1,6 @@
 # Portfolio Website
 
-In this project I used HTML, CSS and Python (with some help from TreeHouse) to create a website to display some of my work.
+In this project I used HTML, CSS, SQL Alchemy and Python (with some help from TreeHouse) to create a website to display some of my work.
 
 ## How to run the Website
 To run this site locally follow these steps<br>
@@ -17,4 +17,4 @@ Install the required packages using <code>pip install</code><br>
 Then in your terminal run <code>python app.py</code><br>
 
 Its been a blast (and sometimes a pain) to learn Python and see myself grow over this course. It nice to have a place to show off some of my progress.<br> 
-I used Python, HTML, CSS, and SQL Alchemy.<br>
+This project and TreeHouse Degree overall showed me that with effort and being willing to bang my head against a wall long enough I can achieve anything.
