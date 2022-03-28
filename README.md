@@ -7,11 +7,14 @@ To run this site locally follow these steps<br>
 
 * Clone the project from github<br>
 * Create a virtual environment<br>
-    * Mac: python3 -m venv env<br>
-    * Windows: python -m venv env<br>
+    * Mac: <code>python3 -m venv env</code><br>
+    * Windows: <code>python -m venv env</code><br>
 * Activate your environment<br>
-    * Mac: source ./env/bin/activate<br>
-    * Windows: .\env\Scripts\activate<br>
+    * Mac: <code>source ./env/bin/activate</code><br>
+    * Windows: <code>.\env\Scripts\activate</code><br>
 
-Install the required packages using pip install<br>
-Then in your terminal run 'python app.py'<br>
+Install the required packages using <code>pip install</code><br>
+Then in your terminal run <code>python app.py</code><br>
+
+This Project showed me how to use multiple coding languages in conjuction to create something real <br>
+I used Python, HTML, CSS, and SQL Alchemy.<br>
