@@ -16,5 +16,5 @@ To run this site locally follow these steps<br>
 Install the required packages using <code>pip install</code><br>
 Then in your terminal run <code>python app.py</code><br>
 
-This Project showed me how to use multiple coding languages in conjuction to create something real <br>
+Its been a blast (and sometimes a pain) to learn Python and see myself grow over this course. It nice to have a place to show off some of my progress.<br> 
 I used Python, HTML, CSS, and SQL Alchemy.<br>
